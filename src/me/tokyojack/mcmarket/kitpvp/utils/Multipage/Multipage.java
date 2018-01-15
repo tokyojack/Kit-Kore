@@ -9,6 +9,16 @@ import org.bukkit.inventory.Inventory;
 import org.bukkit.inventory.ItemStack;
 import org.bukkit.plugin.java.JavaPlugin;
 
+/*
+ * Created by tokyojack
+ * 
+ * DON't REMOVE
+ * 
+ * GITHUB: https://github.com/tokyojack
+ * DISCORD: tokyojack#7353
+ * 
+ */
+
 public class Multipage implements Listener {
 
 	private String inventoryName;

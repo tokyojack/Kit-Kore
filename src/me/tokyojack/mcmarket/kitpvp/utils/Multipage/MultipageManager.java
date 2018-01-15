@@ -11,7 +11,7 @@ import org.bukkit.inventory.meta.ItemMeta;
 /*
  * Created by tokyojack
  * 
- * DON't REMOVE
+ * DO NOT REMOVE
  * 
  * GITHUB: https://github.com/tokyojack
  * DISCORD: tokyojack#7353

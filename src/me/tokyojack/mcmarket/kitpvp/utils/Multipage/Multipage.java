@@ -12,7 +12,7 @@ import org.bukkit.plugin.java.JavaPlugin;
 /*
  * Created by tokyojack
  * 
- * DON't REMOVE
+ * DO NOT REMOVE
  * 
  * GITHUB: https://github.com/tokyojack
  * DISCORD: tokyojack#7353

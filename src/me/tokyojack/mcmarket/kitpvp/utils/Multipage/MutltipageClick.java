@@ -11,6 +11,16 @@ import org.bukkit.event.Listener;
 import org.bukkit.event.inventory.InventoryClickEvent;
 import org.bukkit.inventory.ItemStack;
 
+/*
+ * Created by tokyojack
+ * 
+ * DON't REMOVE
+ * 
+ * GITHUB: https://github.com/tokyojack
+ * DISCORD: tokyojack#7353
+ * 
+ */
+
 public class MutltipageClick implements Listener {
 
 	@EventHandler

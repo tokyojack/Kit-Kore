@@ -8,6 +8,16 @@ import org.bukkit.Material;
 import org.bukkit.inventory.ItemStack;
 import org.bukkit.inventory.meta.ItemMeta;
 
+/*
+ * Created by tokyojack
+ * 
+ * DON't REMOVE
+ * 
+ * GITHUB: https://github.com/tokyojack
+ * DISCORD: tokyojack#7353
+ * 
+ */
+
 public class MultipageManager {
 
 	public final static ItemStack DEFAULT_NEXT_BUTTON = createNamedItem(Material.STAINED_GLASS_PANE, 13, "&aNext page");

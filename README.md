@@ -13,10 +13,8 @@
 
 ## Usage
 
-When two players join the server, the game will automatically start and function.
-
-When the last man is standing, it'll reset and restart the server.
+When you join, you'll automatically gain a kit-selector where you're able to pick your kit, then battle with other players.
 
 ##
 
-Now you've just obtained the plugin! Uh oh, this is reminding me too much of the Hunger Games ```●﹏●```.
+Now you've just obtained the plugin! No way, I should of won that battle! Only if my PC wasn't so slow ```(ノಠ益ಠ)ノ彡┻━┻```.

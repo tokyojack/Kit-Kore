@@ -1,5 +1,5 @@
 <h2  align="center">Kit-Kore</h2>
-<p  align="center">An extensive core for the KitPVP gamemode. Made with Bukkit and can be compiled to a plugin</p>
+<p  align="center">An extensive core for the Minecraft KitPVP gamemode</p>
 
 <br/>
 
